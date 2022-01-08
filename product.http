@@ -1,0 +1,4 @@
+PUT http://localhost:3000/api/products/61d9020683229de46f03b9f6 HTTP/1.1
+Content-Type: application/json
+
+{"name":"New name","description":"Other description","price":50000,"inStock":false}
